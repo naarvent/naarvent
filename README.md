@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**naarvent/naarvent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=6a329f&text=naarvent_%20&textBg=false&stroke=0564">
+</p>
+</br>
+ 
+<div align="center">
+  <img src="https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</div>
+ 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=6a329f&text=idk%20wut%20tu%20put%20jier&textBg=false&stroke=0564&section=footer">
+</p>
