@@ -8,5 +8,5 @@
 </div>
  
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=6a329f&text=idk%20wut%20tu%20put%20jier&textBg=false&stroke=0564&section=footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=6a329f&text=idk%20wut%20tu%20put%20jier%20just%20enjoi%20tha%20snaik&fontSize=40&section=footer&textBg=false">
 </p>
