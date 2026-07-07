@@ -49,6 +49,7 @@ A floating, always-on-top widget showing your current Spotify track in real time
 
 ### 🧰 Stack & tools
 
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,vscode,python,github,obsidian,linux,arch,spotify,git,docker&theme=dark" />
 </p>
