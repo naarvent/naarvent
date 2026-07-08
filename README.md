@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/os-arch%20btw-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
   <img src="https://img.shields.io/badge/wm-hyprland-58E1FF?style=for-the-badge&logo=wayland&logoColor=white">
   <img src="https://img.shields.io/badge/shell-fish-3AB6E8?style=for-the-badge&logo=fishshell&logoColor=white">
-  <img src="https://img.shields.io/badge/coffee%20driven-development-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white">
+  <img src="https://img.shields.io/badge/blood%20type-caffeine-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white">
 </p>
 
 <p align="center">
