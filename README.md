@@ -10,7 +10,12 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" alt="Arch Linux">
-  <img src="https://img.shields.io/badge/Hyprland-58E1FF?style=flat-square&logo=wayland&logoColor=black" alt="Hyprland">
+</p>
+
+<p align="center">
+  <a href="https://github.com/naarvent">
+    <img src="https://komarev.com/ghpvc/?username=naarvent&style=flat-square&color=1793D1" alt="Profile Views" />
+  </a>
 </p>
 
 ---
